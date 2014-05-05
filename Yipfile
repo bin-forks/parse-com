@@ -1,3 +1,10 @@
 
 ios:framework (Parse.framework => Parse.framework)
 osx:framework (ParseOSX.framework => ParseOSX.framework)
+
+ios:framework AudioToolbox
+ios:framework SystemConfiguration
+ios:framework CoreLocation
+ios:framework MobileCoreServices
+ios:framework Social
+ios:framework Accounts
